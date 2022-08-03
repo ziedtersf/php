@@ -4,7 +4,7 @@
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
 
-FROM ubuntu
+FROM ubuntu:22.04
 
 # prevent Debian's PHP packages from being installed
 # https://github.com/docker-library/php/pull/542
